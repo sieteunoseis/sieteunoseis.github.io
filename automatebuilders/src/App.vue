@@ -37,8 +37,8 @@
           <div class="mx-auto text-center">
             <h1 class="mx-auto my-0 text-uppercase">SIP Toolbox</h1>
             <h2 class="text-white-50 mx-auto mt-2 mb-5">A toolbox for troubleshooting SIP related issues on Cisco Unified Communication Manager (CUCM).</h2>
-            <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.2.0/sip_toolbox-v.1.2.0.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-lg"></i></a>
-            <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.2.0/sip-toolbox-installer_v1.2.0.exe" class="btn btn-primary js-scroll-trigger"><i class="fab fa-windows fa-lg"></i></a>
+            <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip_toolbox-v.1.5.0.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-lg"></i></a>
+            <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip-toolbox-installer_v1.5.0.exe" class="btn btn-primary js-scroll-trigger"><i class="fab fa-windows fa-lg"></i></a>
           </div>
         </div>
       </header>
@@ -69,7 +69,8 @@
                   <h4>SIP Toolbox</h4>
                   <p class="text-black-50 mb-0">A cross platform application for running packet captures and pulling logs off of Cisco Unified Communications Manager.</p>
                   <hr class="d-none d-lg-block mb-4 ml-0">
-                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.2.0/sip_toolbox-v.1.2.0.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-2x"></i></a> <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.2.0/sip-toolbox-installer_v1.2.0.exe" class="btn btn-primary js-scroll-trigger"><i class="fab fa-windows fa-2x"></i></a>
+                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip_toolbox-v.1.5.0.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-2x"></i></a>
+                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip-toolbox-installer_v1.5.0.exe" class="btn btn-primary js-scroll-trigger"><i class="fab fa-windows fa-2x"></i></a>
                 </div>
             </div>
           </div>
@@ -87,7 +88,7 @@
                     <h4 class="text-white">Better BAT</h4>
                     <p class="mb-0 text-white-50">A better bulk administration tool for Cisco collaboration applications</p>
                     <hr class="d-none d-lg-block mb-4 mr-0">
-                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/better-bat-app-v.2.6.0.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-2x"></i></a> 
+                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/better-bat-app-v.2.6.0.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-2x"></i></a>
                      <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/BetterBATInstaller_v2.6.0.exe" class="btn btn-primary js-scroll-trigger"><i class="fab fa-windows fa-2x"></i></a>
                   </div>
                 </div>

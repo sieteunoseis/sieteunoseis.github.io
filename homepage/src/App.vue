@@ -215,7 +215,7 @@
       <!-- Footer -->
       <footer class="bg-black small text-center text-white-50">
         <div class="container">
-          Copyright &copy; Jeremy Worden 2019
+          Copyright &copy; Jeremy Worden 2020
         </div>
       </footer>
   </body>
@@ -234,3 +234,4 @@ export default {
 
 <style>
 </style>
+

@@ -21,7 +21,7 @@
                 <a class="nav-link js-scroll-trigger" href="#signup">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="https://automatebuilders.micro.blog/" target="_blank">Blog</a>
+                <a class="nav-link js-scroll-trigger" href="https://medium.com/automate-builders/" target="_blank">Medium Blog</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -75,8 +75,8 @@
                   <h4>SIP Toolbox</h4>
                   <p class="text-black-50 mb-0">A cross platform application for running packet captures and pulling logs off of Cisco Unified Communications Manager.</p>
                   <hr class="d-none d-lg-block mb-4 ml-0">
-                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip_toolbox-v.1.5.0.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-2x"></i></a>
-                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip-toolbox-installer_v1.5.0.exe" class="btn btn-primary js-scroll-trigger"><i class="fab fa-windows fa-2x"></i></a>
+                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip_toolbox-v.1.5.0.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-2x"></i></a>
+                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip-toolbox-installer_v1.5.0.exe" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-2x"></i></a>
                 </div>
             </div>
           </div>
@@ -94,8 +94,8 @@
                     <h4 class="text-white">Better BAT</h4>
                     <p class="mb-0 text-white-50">A better bulk administration tool for Cisco collaboration applications</p>
                     <hr class="d-none d-lg-block mb-4 mr-0">
-                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/better-bat-app-v.2.6.0.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-2x"></i></a>
-                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/BetterBATInstaller_v2.6.0.exe" class="btn btn-primary js-scroll-trigger"><i class="fab fa-windows fa-2x"></i></a>
+                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/better-bat-app-v.2.6.0.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-2x"></i></a>
+                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/BetterBATInstaller_v2.6.0.exe" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-2x"></i></a>
                   </div>
                 </div>
               </div>
@@ -114,8 +114,8 @@
                     <h4 class="text-white">UC Configurator</h4>
                     <p class="mb-0 text-white-50">A zero day Python tool for configurating Cisco UC applications.</p>
                     <hr class="d-none d-lg-block mb-4 ml-0">
-                    <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v.0.3.9/UC.Configurator.v.0.3.9.dmg" class="btn btn-primary js-scroll-trigger"><i class="fab fa-apple fa-lg"></i></a>
-                    <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v.0.3.9/UC.Configurator-0.3.9-win32.msi" class="btn btn-primary js-scroll-trigger"><i class="fab fa-windows fa-lg"></i></a>
+                    <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v.0.3.9/UC.Configurator.v.0.3.9.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-lg"></i></a>
+                    <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v.0.3.9/UC.Configurator-0.3.9-win32.msi" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-lg"></i></a>
                   </div>
                 </div>
               </div>
@@ -134,7 +134,7 @@
                     <h4 class="text-white">Cisco Emergency Responder Automation</h4>
                     <p class="mb-0 text-white-50">Script that uses Google Chrome to automate adding users to CER administration pages</p>
                     <hr class="d-none d-lg-block mb-4 mr-0">
-                    <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.0/chrome_cer_automation.zip" class="btn btn-primary js-scroll-trigger"><i class="fab fa-python fa-2x"></i></a>
+                    <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.0/chrome_cer_automation.zip" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-python fa-2x"></i></a>
                   </div>
                 </div>
               </div>

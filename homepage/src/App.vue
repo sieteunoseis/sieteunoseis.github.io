@@ -94,8 +94,8 @@
                     <h4 class="text-white">Better BAT</h4>
                     <p class="mb-0 text-white-50">A better bulk administration tool for Cisco collaboration applications</p>
                     <hr class="d-none d-lg-block mb-4 mr-0">
-                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/better-bat-app-v.2.6.0.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-2x"></i></a>
-                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.6.0/BetterBATInstaller_v2.6.0.exe" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-2x"></i></a>
+                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.7.4/better-bat-app-v.2.7.4.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-2x"></i></a>
+                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.7.4/BetterBATInstaller_v2.6.4.exe" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-2x"></i></a>
                   </div>
                 </div>
               </div>

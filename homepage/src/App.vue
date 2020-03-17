@@ -68,15 +68,15 @@
           <h2 class="text-center mb-4">Featured Project</h2>
           <div class="row align-items-center no-gutters mb-4 mb-lg-5">
             <div class="col-xl-8 col-lg-7">
-              <img src="@/assets/img/siptoolbox.png" alt="" class="img-fluid mb-3 mb-lg-0">
+              <img src="@/assets/img/betterbat.png" alt="" class="img-fluid mb-3 mb-lg-0">
             </div>
             <div class="col-xl-4 col-lg-5">
                 <div class="featured-text text-center text-lg-left">
-                  <h4>SIP Toolbox</h4>
-                  <p class="text-black-50 mb-0">A cross platform application for running packet captures and pulling logs off of Cisco Unified Communications Manager.</p>
+                  <h4>Better BAT</h4>
+                  <p class="text-black-50 mb-0">A better bulk administration tool for Cisco collaboration applications.</p>
                   <hr class="d-none d-lg-block mb-4 ml-0">
-                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip_toolbox-v.1.5.0.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-2x"></i></a>
-                  <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip-toolbox-installer_v1.5.0.exe" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-2x"></i></a>
+                    <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.7.7/better-bat-app-v.2.7.7.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-2x"></i></a>
+                    <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.7.7/BetterBATInstaller_v2.7.7.exe" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-2x"></i></a>
                 </div>
             </div>
           </div>
@@ -85,17 +85,17 @@
           <!-- Project Row One -->
           <div class="row justify-content-center no-gutters">
             <div class="col-lg-6">
-              <img class="img-fluid" src="@/assets/img/betterbat.png" alt="">
+              <img class="img-fluid" src="@/assets/img/siptoolbox.png" alt="">
             </div>
             <div class="col-lg-6 order-lg-first">
               <div class="bg-black text-center h-100 project">
                 <div class="d-flex h-100">
                   <div class="project-text w-100 my-auto text-center text-lg-right">
-                    <h4 class="text-white">Better BAT</h4>
-                    <p class="mb-0 text-white-50">A better bulk administration tool for Cisco collaboration applications</p>
+                    <h4 class="text-white">SIP Toolbox</h4>
+                    <p class="mb-0 text-white-50">A cross platform application for running packet captures and pulling logs off of Cisco Unified Communications Manager.</p>
                     <hr class="d-none d-lg-block mb-4 mr-0">
-                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.7.4/better-bat-app-v.2.7.4.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-2x"></i></a>
-                     <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.7.4/BetterBATInstaller_v2.6.4.exe" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-2x"></i></a>
+                      <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip_toolbox-v.1.5.0.dmg" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-apple fa-2x"></i></a>
+                      <a href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v1.5.0/sip-toolbox-installer_v1.5.0.exe" class="btn btn-primary js-scroll-trigger m-1"><i class="fab fa-windows fa-2x"></i></a>
                   </div>
                 </div>
               </div>

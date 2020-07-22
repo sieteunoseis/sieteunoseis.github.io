@@ -155,12 +155,12 @@
                 </p>
                 <hr class="d-none d-lg-block mb-4 ml-0" />
                 <a
-                  href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.7.9/better-bat-app-v.2.7.9.dmg"
+                  href="https://github.com/sieteunoseis/betterbat-public-release/releases/download/v3.0.0/Better.BAT.Tool-3.0.0.dmg"
                   class="btn btn-primary js-scroll-trigger m-1"
                   ><i class="fab fa-apple fa-2x"></i
                 ></a>
                 <a
-                  href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v2.7.9/BetterBATInstaller_v2.7.9.exe"
+                  href="https://github.com/sieteunoseis/betterbat-public-release/releases/download/v3.0.0/Better.BAT.Tool.Setup.3.0.0.exe"
                   class="btn btn-primary js-scroll-trigger m-1"
                   ><i class="fab fa-windows fa-2x"></i
                 ></a>

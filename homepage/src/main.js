@@ -16,4 +16,5 @@ new Vue({
 }).$mount('#app')
 
 require('@/assets/js/grayscale.js')
+require('@/assets/js/retainable-rss-embed.js')
 require('@/assets/css/grayscale.css')

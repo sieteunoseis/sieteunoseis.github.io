@@ -24,8 +24,11 @@
               <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#about">About</a>
               </li>
-                            <li class="nav-item">
+              <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#github">Github</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="#medium">Medium</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#projects"
@@ -119,7 +122,7 @@
         </div>
       </section>
 
-      <!-- About Section -->
+      <!-- GitHub Section -->
       <section id="github" class="project-section text-center bg-light">
         <div class="container">
           <div class="row">
@@ -129,6 +132,27 @@
                 data-user="sieteunoseis"
                 data-theme="dark"
               ></github-card>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Medium Section -->
+      <section id="medium" class="project-section text-center bg-light">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 mx-auto">
+              <h2 class="text-center mb-4 mt-5">Medium Stories</h2>
+              <div
+                id="retainable-rss-embed"
+                data-rss="https://medium.com/feed/automate-builders"
+                data-maxcols="2"
+                data-layout="slider"
+                data-poststyle="external"
+                data-readmore="Read more"
+                data-buttonclass="btn btn-primary"
+                data-offset="-100"
+              ></div>
             </div>
           </div>
         </div>
@@ -333,7 +357,7 @@
             >
               <i class="fab fa-twitter"></i>
             </a>
-                        <a
+            <a
               href="https://medium.com/automate-builders/"
               target="_blank"
               class="mx-2"

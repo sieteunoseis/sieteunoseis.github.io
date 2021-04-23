@@ -249,12 +249,12 @@
                     </p>
                     <hr class="d-none d-lg-block mb-4 ml-0" />
                     <a
-                      href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v.0.3.9/UC.Configurator.v.0.3.9.dmg"
+                      href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v.0.5.1/UC.Configurator.v.0.5.1.dmg"
                       class="btn btn-primary js-scroll-trigger m-1"
                       ><i class="fab fa-apple fa-lg"></i
                     ></a>
                     <a
-                      href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v.0.3.9/UC.Configurator-0.3.9-win32.msi"
+                      href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/v.0.5.1/UC.Configurator-0.5.1-win32.msi"
                       class="btn btn-primary js-scroll-trigger m-1"
                       ><i class="fab fa-windows fa-lg"></i
                     ></a>

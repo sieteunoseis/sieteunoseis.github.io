@@ -165,26 +165,25 @@
           <div class="row align-items-center no-gutters mb-4 mb-lg-5">
             <div class="col-xl-8 col-lg-7">
               <img
-                src="@/assets/img/betterbat.png"
+                src="@/assets/img/isemaker.png"
                 alt=""
                 class="img-fluid mb-3 mb-lg-0"
               />
             </div>
             <div class="col-xl-4 col-lg-5">
               <div class="featured-text text-center text-lg-left">
-                <h4>Better BAT</h4>
+                <h4>ISE Maker</h4>
                 <p class="text-black-50 mb-0">
-                  A better bulk administration tool for Cisco collaboration
-                  applications.
+                  A better bulk administration tool for Cisco's Identity Services Engine (ISE).
                 </p>
                 <hr class="d-none d-lg-block mb-4 ml-0" />
                 <a
-                  href="https://github.com/sieteunoseis/betterbat-public-release/releases/download/v3.0.0/Better.BAT.Tool-3.0.0.dmg"
+                  href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/1.5.1/ISE.Maker-1.5.1.dmg"
                   class="btn btn-primary js-scroll-trigger m-1"
                   ><i class="fab fa-apple fa-2x"></i
                 ></a>
                 <a
-                  href="https://github.com/sieteunoseis/betterbat-public-release/releases/download/v3.0.0/Better.BAT.Tool.Setup.3.0.0.exe"
+                  href="https://github.com/sieteunoseis/sieteunoseis.github.io/releases/download/1.5.1/ISE.Maker.Setup.1.5.1.exe"
                   class="btn btn-primary js-scroll-trigger m-1"
                   ><i class="fab fa-windows fa-2x"></i
                 ></a>
@@ -193,7 +192,43 @@
           </div>
 
           <h2 class="text-center mb-4">Other Projects</h2>
-          <!-- Project Row One -->
+          <!-- Project Row Left -->
+          <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+            <div class="col-lg-6">
+              <img
+                class="img-fluid"
+                src="@/assets/img/betterbat.png"
+                alt=""
+              />
+            </div>
+            <div class="col-lg-6">
+              <div class="bg-black text-center h-100 project">
+                <div class="d-flex h-100">
+                  <div
+                    class="project-text w-100 my-auto text-center text-lg-left"
+                  >
+                    <h4 class="text-white">Better BAT</h4>
+                    <p class="mb-0 text-white-50">
+                  A better bulk administration tool for Cisco collaboration
+                  applications.
+                    </p>
+                    <hr class="d-none d-lg-block mb-4 ml-0" />
+                    <a
+                      href="https://github.com/sieteunoseis/betterbat-public-release/releases/download/v3.0.0/Better.BAT.Tool-3.0.0.dmg"
+                      class="btn btn-primary js-scroll-trigger m-1"
+                      ><i class="fab fa-apple fa-lg"></i
+                    ></a>
+                    <a
+                      href="https://github.com/sieteunoseis/betterbat-public-release/releases/download/v3.0.0/Better.BAT.Tool.Setup.3.0.0.exe"
+                      class="btn btn-primary js-scroll-trigger m-1"
+                      ><i class="fab fa-windows fa-lg"></i
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Project Row Right -->
           <div class="row justify-content-center no-gutters">
             <div class="col-lg-6">
               <img class="img-fluid" src="@/assets/img/siptoolbox.png" alt="" />
@@ -227,7 +262,7 @@
             </div>
           </div>
 
-          <!-- Project Row Two -->
+          <!-- Project Row Left -->
           <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
             <div class="col-lg-6">
               <img
@@ -245,7 +280,7 @@
                     <h4 class="text-white">UC Configurator</h4>
                     <p class="mb-0 text-white-50">
                       A zero day Python tool for configurating Cisco UC
-                      applications.
+                      applications. Now working for Cisco Collaboration Systems Release 14!!!!
                     </p>
                     <hr class="d-none d-lg-block mb-4 ml-0" />
                     <a
@@ -264,7 +299,7 @@
             </div>
           </div>
 
-          <!-- Project Row Three -->
+          <!-- Project Row Right -->
           <div class="row justify-content-center no-gutters">
             <div class="col-lg-6">
               <img
@@ -413,7 +448,7 @@
       <!-- Footer -->
       <footer class="bg-black small text-center text-white-50">
         <div class="container">
-          Copyright &copy; Jeremy Worden 2020
+          Copyright &copy; Jeremy Worden 2021
         </div>
       </footer>
     </body>

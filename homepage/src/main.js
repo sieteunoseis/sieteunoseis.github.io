@@ -9,7 +9,6 @@ require('bootstrap');
 require('jquery.easing');
 
 Vue.config.productionTip = false;
-// Vue.component('github-card', 'github-card');
 
 new Vue({
   render: h => h(App),

@@ -1,11 +1,11 @@
 {
   "name": "automate.builders",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "description": "Jeremy's Portfolio",
   "author": "sieteunoseis <jeremy.worden@gmail.com>",
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },

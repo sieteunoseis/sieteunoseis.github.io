@@ -131,7 +131,7 @@
               <github-card
                 data-user="sieteunoseis"
                 data-theme="dark"
-              ></github-card>
+                v-pre></github-card>
             </div>
           </div>
         </div>
@@ -461,7 +461,7 @@ export default {
     return {
       title: "Automate Builders",
     };
-  },
+  }
 };
 </script>
 

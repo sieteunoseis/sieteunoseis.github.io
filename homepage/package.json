@@ -1,6 +1,6 @@
 {
   "name": "automate.builders",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "Jeremy's Portfolio",
   "author": "sieteunoseis <jeremy.worden@gmail.com>",
@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "*",
-    "@rocktimsaikia/github-card": "^2.0.0",
     "bootstrap": "^4.5.1",
     "core-js": "^3.6.5",
     "devicons": "^1.8.0",

@@ -1,6 +1,5 @@
 import Vue from 'vue';
 import App from './App.vue';
-import "@rocktimsaikia/github-card";
 var $ = require('jquery');
 window.jQuery = $;
 require('bootstrap/dist/css/bootstrap.css');

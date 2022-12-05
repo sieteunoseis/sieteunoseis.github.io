@@ -1,7 +1,6 @@
 <template>
   <div class="main-wrapper">
     <body id="page-top">
-      <!-- Navigation -->
       <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
         <div class="container">
           <a class="navbar-brand js-scroll-trigger" href="#page-top"
@@ -88,7 +87,6 @@
         </div>
       </nav>
 
-      <!-- Header -->
       <header class="masthead">
         <div class="container d-flex h-100 align-items-center">
           <div class="mx-auto text-center">
@@ -100,7 +98,7 @@
         </div>
       </header>
 
-      <!-- About Section -->
+
       <section id="about" class="about-section text-center">
         <div class="container">
           <div class="row">
@@ -122,7 +120,7 @@
         </div>
       </section>
 
-      <!-- GitHub Section -->
+
       <section id="github" class="project-section text-center bg-light">
         <div class="container">
           <div class="row">
@@ -137,7 +135,7 @@
         </div>
       </section>
 
-      <!-- Medium Section -->
+
       <section id="medium" class="project-section text-center bg-light">
         <div class="container">
           <div class="row">
@@ -158,7 +156,7 @@
         </div>
       </section>
 
-      <!-- Projects Section -->
+
       <section id="projects" class="projects-section bg-light">
         <div class="container">
           <h2 class="text-center mb-4">Featured Project</h2>
@@ -192,7 +190,7 @@
           </div>
 
           <h2 class="text-center mb-4">Other Projects</h2>
-          <!-- Project Row Left -->
+
           <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
             <div class="col-lg-6">
               <img
@@ -228,7 +226,7 @@
               </div>
             </div>
           </div>
-          <!-- Project Row Right -->
+
           <div class="row justify-content-center no-gutters">
             <div class="col-lg-6">
               <img class="img-fluid" src="@/assets/img/siptoolbox.png" alt="" />
@@ -262,7 +260,7 @@
             </div>
           </div>
 
-          <!-- Project Row Left -->
+
           <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
             <div class="col-lg-6">
               <img
@@ -299,7 +297,7 @@
             </div>
           </div>
 
-          <!-- Project Row Right -->
+
           <div class="row justify-content-center no-gutters">
             <div class="col-lg-6">
               <img
@@ -335,7 +333,7 @@
         </div>
       </section>
 
-      <!-- Contact Section -->
+
       <section class="contact-section bg-black" id="signup">
         <div class="container">
           <div class="row">
@@ -347,10 +345,10 @@
                   <hr class="my-4" />
                   <div class="small text-black-50">
                     <a
-                      href="https://goo.gl/maps/cZTNtvzsLeu7SUCq8"
+                      href="https://goo.gl/maps/Nwg4hdoLAyab7urK8"
                       target="_blank"
                       class="mx-2"
-                      >1340 N Webster, Portland, Oregon 97217</a
+                      >Portland, Oregon 97217</a
                     >
                   </div>
                 </div>
@@ -445,7 +443,7 @@
         </div>
       </section>
 
-      <!-- Footer -->
+
       <footer class="bg-black small text-center text-white-50">
         <div class="container">
           Copyright &copy; Jeremy Worden 2022

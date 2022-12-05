@@ -448,7 +448,7 @@
       <!-- Footer -->
       <footer class="bg-black small text-center text-white-50">
         <div class="container">
-          Copyright &copy; Jeremy Worden 2021
+          Copyright &copy; Jeremy Worden 2022
         </div>
       </footer>
     </body>
